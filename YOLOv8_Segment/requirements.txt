@@ -1,0 +1,15 @@
+# Core ML & CV Libraries
+# Pin specific versions for reproducibility in MLOps
+torch==2.1.0
+torchvision==0.16.0
+ultralytics==8.0.200 
+opencv-python-headless==4.8.0.76
+
+# DICOM & Data Handling
+pydicom==2.4.3
+pylibjpeg==1.4.0
+gdcm==3.0.22
+numpy==1.26.0
+pandas==2.1.1
+tqdm==4.66.1
+PyYAML==6.0.1

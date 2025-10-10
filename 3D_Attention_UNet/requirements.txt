@@ -1,0 +1,19 @@
+# Core Deep Learning Framework
+# Pin specific versions for reproducibility
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+
+# Data Handling and Image Processing
+numpy==1.26.0
+pandas==2.1.1
+opencv-python-headless==4.8.0.76
+
+# DICOM File Reading (for the data preparation workflow)
+pydicom==2.4.3
+pylibjpeg==1.4.0
+gdcm==3.0.22
+
+# Utility for Progress Bars
+tqdm==4.66.1
+
