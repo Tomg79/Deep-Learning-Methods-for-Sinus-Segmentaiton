@@ -4,7 +4,7 @@ This repository contains the source code, results, and trained models for a proj
 
 ---
 
-## 🚀 Key Results & Conclusion
+##  Key Results & Conclusion
 
 This study demonstrates that for this specific task, a pragmatic **2D YOLOv8-Segment model significantly outperforms the more complex 3D Attention U-Net** across all evaluated metrics. The final comparison on the validation set is summarized below:
 
@@ -28,7 +28,7 @@ The final trained model weights can be downloaded from the links below.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 The project is organized into two self-contained sub-projects:
 
@@ -37,7 +37,8 @@ The project is organized into two self-contained sub-projects:
 
 ---
 
-## 🛠️ How to Use
+## 
+How to Use
 
 To run the evaluation or training scripts for either model:
 
